@@ -1,5 +1,5 @@
   {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "downloadUrl": "https://wfbtrakker.github.io/wfbtrakker-website/InstallationFiles/MonitorTraySetup.msi",
-    "releaseNotes": "Initial release with core features"
+    "releaseNotes": "- Version checking.\r\n- About Version Message."
   }
