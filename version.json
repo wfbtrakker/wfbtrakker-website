@@ -1,0 +1,7 @@
+  {
+    "version": "1.0.7",
+    "downloadUrl": "https://github.com/yourusername/linktray/releases/download/v1.0.7/LinkTraySetup.msi",
+    "releaseNotes": "Initial release with core features",
+    "releaseDate": "2025-12-26",
+    "minimumVersion": "1.0.0"
+  }
